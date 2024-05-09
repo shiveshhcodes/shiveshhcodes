@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiveshhcodes&label=Profile%20views&color=0e75b6&style=flat" alt="shiveshhcodes" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiveshhcodes" alt="shiveshhcodes" /></a> </p>
 <p align="left"> <a href="https://twitter.com/unfilteredshibu" target="blank"><img src="https://img.shields.io/twitter/follow/unfilteredshibu?logo=twitter&style=for-the-badge" alt="unfilteredshibu" /></a> 
-<br> 💫 About Me: <br><br>
+<br> 💫 About Me: <br>
 📄 I'm currently working on Development , AI & ML <br>🔁 I'm currently doing my 100 days of code challenge<br>🤝 I'm looking to collaborate for projects and internships<br>🔭 I'm currently learning Python<br>💬 Ask me about startups and marketing<br>⚡️ Fun fact - I'm a good listener and developer.
 
 <h3 align="left">Connect with me:</h3>
