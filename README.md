@@ -3,12 +3,9 @@
 <h3 align="center">Passionate Young Dark Knight Coder Exploring The Tech Realm With Love For Coding. Embarking On A Journey To Master The Art Of Programming.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiveshhcodes&label=Profile%20views&color=0e75b6&style=flat" alt="shiveshhcodes" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiveshhcodes" alt="shiveshhcodes" /></a> </p>
-<p align="left"> <a href="https://twitter.com/unfilteredshibu" target="blank"><img src="https://img.shields.io/twitter/follow/unfilteredshibu?logo=twitter&style=for-the-badge" alt="unfilteredshibu" /></a> </p>
-- 🔭 I’m currently working on **100 Days Of Code**
-- 🌱 I’m currently learning **Python**
-- 👯 I’m looking to collaborate on **Some Cool Python Projects**
-- 📫 How to reach me **shiveshdeveloper@gmail.com**
-- ⚡ Fun fact **Coding Superhero by day, Dark Knight By Night.**
+<p align="left"> <a href="https://twitter.com/unfilteredshibu" target="blank"><img src="https://img.shields.io/twitter/follow/unfilteredshibu?logo=twitter&style=for-the-badge" alt="unfilteredshibu" /></a> # 💫 About Me:
+📄 I'm currently working on Development , AI & ML <br>🔁 I'm currently doing my 100 days of code challenge<br>🤝 I'm looking to collaborate for projects and internships<br>🔭 I'm currently learning Python<br>💬 Ask me about startups and marketing<br>⚡️ Fun fact - I'm a good listener and developer.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/unfilteredshibu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unfilteredshibu" height="30" width="40" /></a>
