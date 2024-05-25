@@ -1,10 +1,21 @@
-[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3IxcTRtdTRzMTNkNDM3cjV0ajlxNXk2ajh0dHZqdzMzdWJleTZoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif)]
-<h1 align="center">Hi 👋, I'm Shiveshhhhhhh</h1>
-<!-- <h3 align="center">Passionate Young Dark Knight Coder Exploring The Tech Realm With Love For Coding. Embarking On A Journey To Master The Art Of Programming.</h3> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shiveshhcodes&label=Profile%20views&color=0e75b6&style=flat" alt="shiveshhcodes" /> </p>
-<p align="left"> <a href="https://twitter.com/unfilteredshibu" target="blank"><img src="https://img.shields.io/twitter/follow/unfilteredshibu?logo=twitter&style=for-the-badge" alt="unfilteredshibu" /></a> 
-<br> 💫 About Me: <br>
-📄 I'm currently working on Development , AI & ML <br>🔁 I'm currently doing my 100 days of code challenge<br>🤝 I'm looking to collaborate for projects and internships<br>🔭 I'm currently learning Python<br>💬 Ask me about startups and marketing<br>⚡️ Fun fact - I'm a good listener and developer.
+<h1 align="center">Hi 👋, I'm Shiveshhhhhhh <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1>
+```python
+def main():
+    name = 'Shivesh Richhariya'
+    acknowledgements = 'Software Engineer'
+    location = 'Indore, India'
+    company = 'O2D - On Demand Development'
+    current_focus = 'Development, AI & ML'
+    current_challenge = '100 days of code challenge'
+    looking_for = 'collaborations for projects and internships'
+    learning = 'Python'
+    expertise = 'startups and marketing'
+    fun_fact = 'I am a good listener and developer.'
+
+if __name__ == "__main__":
+    main()
+
+[![MasterHead]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
