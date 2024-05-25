@@ -14,8 +14,8 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
-[![MasterHead]
+
+    ```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
