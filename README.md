@@ -12,9 +12,7 @@ def main():
     learning = 'Python'
     expertise = 'startups and marketing'
     fun_fact = 'I am a good listener and developer.'
-
-if __name__ == "__main__":
-    main()
+    
     ```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
