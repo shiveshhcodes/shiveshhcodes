@@ -1,20 +1,20 @@
 <h1 align="center">Hi, I'm Shiveshhhhhhh <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1>
 
 ```python
-    def main():
-     name = 'Shivesh Richhariya'
-     acknowledgements = 'Software Engineer'
-     location = 'Indore, India'
-     company = 'O2D - On Demand Development'
-     current_focus = 'Development, AI & ML'
+def main():
+name = 'Shivesh Richhariya'
+acknowledgements = 'Software Engineer'
+location = 'Indore, India'
+company = 'O2D - On Demand Development'
+current_focus = 'Development, AI & ML'
      current_challenge = '100 days of code challenge'
      looking_for = 'collaborations for projects and internships'
      learning = 'Python'
      expertise = 'startups and marketing'
      fun_fact = 'I am a good listener and developer.'
 
-     if __name__ == "__main__":
-    main()
+if __name__ == "__main__":
+main()
     
 ```
 <h3 align="left">Connect with me:</h3>
