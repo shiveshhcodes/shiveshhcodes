@@ -2,19 +2,19 @@
 
 ```python
 def main():
-name = 'Shivesh Richhariya'
-acknowledgements = 'Software Engineer'
-location = 'Indore, India'
-company = 'O2D - On Demand Development'
-current_focus = 'Development, AI & ML'
-     current_challenge = '100 days of code challenge'
-     looking_for = 'collaborations for projects and internships'
-     learning = 'Python'
-     expertise = 'startups and marketing'
-     fun_fact = 'I am a good listener and developer.'
+    name = 'Shivesh Richhariya'
+    acknowledgements = 'Software Developer'
+    location = 'Indore, India'
+    current_focus = 'Development, AI & ML'
+    current_challenge = '100 days of code challenge'
+    looking_for = 'collaborations for projects and internships'
+    current_learning = 'Python'
+    other_expertise = 'startups and marketing'
+    fun_fact = 'I am a good listener and developer.'
 
 if __name__ == "__main__":
-main()
+    main()
+
     
 ```
 <h3 align="left">Connect with me:</h3>
