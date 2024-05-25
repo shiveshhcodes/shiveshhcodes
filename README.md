@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shiveshhhhhhh <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1>
+<h1 align="center">Hi, I'm Shiveshhhhhhh <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1>
 ```python
 def main():
     name = 'Shivesh Richhariya'
@@ -14,7 +14,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-
+```
 [![MasterHead]
 
 <h3 align="left">Connect with me:</h3>
