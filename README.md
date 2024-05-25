@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Shiveshhhhhhh <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1>
+
     ```python
 def main():
     name = 'Shivesh Richhariya'
@@ -14,9 +15,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-
     ```
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/unfilteredshibu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unfilteredshibu" height="30" width="40" /></a>
