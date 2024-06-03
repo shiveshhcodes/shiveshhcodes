@@ -41,8 +41,8 @@ if __name__ == "__main__":
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
-    <a href="https://wiki.python.org/moin/TkInter" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/TkInter_Python.png/1200px-TkInter_Python.png" alt="tkinter" width="40" height="40"/>
+    <a href="https://docs.python.org/3/library/tkinter.html" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tkinter/tkinter-original.svg" alt="tkinter" width="40" height="40"/>
     </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
