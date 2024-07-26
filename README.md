@@ -12,7 +12,7 @@ def main():
     looking_for = 'collaborations for projects and internships'
     current_learning = 'JavaScript'
     other_expertise = 'startups and marketing'
-    fun_fact = 'I am a good listener and developer.'
+    fun_fact = 'I am a good listener & developer.'
 
 if __name__ == "__main__":
     main()
