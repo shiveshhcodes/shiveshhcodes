@@ -57,10 +57,10 @@ if __name__ == "__main__":
     <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
 </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-line-wordmark.svg"/>
 </a>
 <a href="https://threejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" width="40" height="40/>
 </a>
 
 <!-- Software/Tools -->
