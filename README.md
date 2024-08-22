@@ -10,7 +10,7 @@ def main():
     current_focus = 'Development, AI & ML'
     current_challenge = '100 days of code challenge'
     looking_for = 'collaborations for projects and internships'
-    current_learning = 'JavaScript'
+    current_learning = 'React'
     other_expertise = 'startups and marketing'
     fun_fact = 'I am a good listener & developer.'
 
