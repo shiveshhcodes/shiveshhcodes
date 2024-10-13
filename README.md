@@ -56,12 +56,12 @@ if __name__ == "__main__":
 <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
 </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+<!-- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-line-wordmark.svg" width="40" height="40/>
 </a>
 <a href="https://threejs.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" width="40" height="40/>
-</a>
+</a> -->
 
 <!-- Software/Tools -->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
