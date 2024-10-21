@@ -6,7 +6,7 @@
 def main():
     name = 'Shivesh Richhariya'
     acknowledgements = 'Software Developer'
-    location = 'Indore, India'
+    location = 'Indre, India'
     current_focus = 'Development, AI & ML'
     current_challenge = '100 days of code challenge'
     looking_for = 'collaborations for projects and internships'
