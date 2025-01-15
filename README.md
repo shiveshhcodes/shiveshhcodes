@@ -57,20 +57,3 @@ if __name__ == "__main__":
 </tr>
 
 </table>
-
-
-<!-- Software/Tools -->
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-</a>
-
-</p>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiveshhcodes&show_icons=true&locale=en&layout=compact" alt="shiveshhcodes" /></p> -->
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiveshhcodes&show_icons=true&locale=en" alt="shiveshhcodes" /></p> -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiveshhcodes&" alt="shiveshhcodes" /></p> -->
