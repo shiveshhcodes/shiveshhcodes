@@ -56,20 +56,3 @@ if __name__ == "__main__":
 </tr>
 
 </table>
-
-
-## Collaboration 🤝
-
-I'm open to collaborating on projects related to my interests. If you have an exciting project or idea in mind, I'd love to hear about it! You can reach out to me through Email, LinkedIn or X.
-<hr>
-
-<div align="center">
-    <table width="100%">
-        <tr>
-            <td width="30%">
-		<h3><b>Profile visits</b></h3>
-                <img width="80%" src="https://profile-counter.glitch.me/{urvashii-b}/count.svg">
-		<h3><b>Leetcode Stats</b></h3>
-                <img src="https://leetcard.jacoblin.cool/urvashiiibh?theme=dark&font=Carrois%20Gothic%20SC&ext=contest" alt="LeetCode Stats">
-            </td>
-
