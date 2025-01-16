@@ -8,7 +8,7 @@ def main():
     acknowledgements = 'Software Developer'
     location = 'Indre, India'
     current_focus = 'Development, AI & ML'
-    current_challenge = '100 days of code challenge'
+    current_challenge = 'DSA'
     looking_for = 'collaborations for projects and internships'
     current_learning = 'React.js'
     other_expertise = 'startups and marketing'
