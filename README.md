@@ -6,7 +6,7 @@
 def main():
     name = 'Shivesh Richhariya'
     acknowledgements = 'Software Developer'
-    location = 'Indre, India'
+    location = 'Indore, India'
     current_focus = 'Development, AI & ML'
     current_challenge = 'DSA'
     looking_for = 'collaborations for projects and internships'
